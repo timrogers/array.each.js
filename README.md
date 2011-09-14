@@ -5,7 +5,7 @@ A really quick Javascript helper file that adds an each() method to array's, all
 
 It's really easy to put into your page - you can get it straight from GitHub:
 
-	<script type="text/javascript" src="http://timrogers.github.com/array.each.js/array.each.js"></script?
+	<script type="text/javascript" src="http://timrogers.github.com/array.each.js/array.each.js"></script>
 	
 And then it's really easy to use as well!
 
