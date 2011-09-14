@@ -1,0 +1,1 @@
+if(Array.prototype.each==null){Array.prototype.each=function(a){for(var b=0;b<this.length;b++){a(this[b])}}}
